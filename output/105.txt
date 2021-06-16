@@ -1,0 +1,9 @@
+Vendor_Address	53000 KUALA LUMPUR ,
+Created_Date	14-02-2018 13
+Line_Item_Price	1 X,
+Line_Item_Total	12.50,12.50,
+Line_Item_Description	Hot Green 
+Line_Item_Description	,
+Line_Item_Price	1 X,3.
+Line_Item_Quantity	1,
+Created_Date	14-02-2018

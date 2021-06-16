@@ -1,0 +1,9 @@
+Vendor_Name	N. BHD.,,,
+Line_Item_Description	NO.1
+Line_Item_Description	18 & 41, JALAN BES
+Created_Date	2.12
+Line_Item_Total	13.5
+Line_Item_Total	13
+Line_Item_Total	13.50,,,
+Total	13,5
+Tax	0.76,,

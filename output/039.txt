@@ -1,0 +1,6 @@
+Bill_to_address	BANDAR   SUNWAY, 47500 PETALING JAya,,
+Line_Item_Quantity	2,,,
+Line_Item_Total	13 ,
+Line_Item_Total	,,
+Line_Item_Quantity	RMZ. 21 ),,,
+Created_Date	001-2018/02/22 13.34:27,,,

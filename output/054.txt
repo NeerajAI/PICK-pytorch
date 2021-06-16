@@ -1,0 +1,7 @@
+Vendor_Phone_Number	07-3822612,
+Line_Item_Quantity	3,
+Invoice_Number	C800070757,
+Created_Date	20/0372071,
+Line_Item_Price	1023,
+Tax	0.78,
+Total	3.80,

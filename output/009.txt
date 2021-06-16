@@ -1,0 +1,12 @@
+Line_Item_Description	40.0 SHAHI ALAM\, SELANGOR,Vend
+Bill_to_address	or_Address
+Vendor_Phone_Number	3213
+Invoice_Number	7005F711,Invoice_Number
+Vendor_Name	VEOS: AZLAN (
+Total	em_
+Total	2.97,othe
+Line_Item_Description	B
+Line_Item_Description	N-SBILIS,Line_Item_Description
+Total	,58,T
+Line_Item_Description	IES (INC\, GST);,other
+Total	,42,

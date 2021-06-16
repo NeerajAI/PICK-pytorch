@@ -1,0 +1,16 @@
+Vendor_Address	1912 Harvest Lane,New
+Bill_to_address	 York; NY 12210,
+Invoice_Number	US-001,
+Bill_to_name	John Smith,
+Created_Date	11/02/2019,
+Line_Item_Quantity	NY 1
+Tax	2210,
+Created_Date	26/02/2019,
+Line_Item_Description	Front and rear brake cables,
+Line_Item_Total	100.00,
+Line_Item_Total	15.00,
+Line_Item_Quantity	30.00,
+Line_Item_Price	5.00,
+Line_Item_Total	145.00,
+Tax	9.06,
+Total	154.06

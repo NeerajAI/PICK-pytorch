@@ -1,0 +1,13 @@
+Created_Date	946207-0,,
+Vendor_Address	KG. DUSUN NANLING , 43100 HULU LANGAt ,
+Vendor_Phone_Number	603-90213004
+Line_Item_Description	2z-207 COLEX BLACK BASIC,,
+Line_Item_Price	43 .
+Line_Item_Total	 Q0,,
+Line_Item_Description	BLACK RAIN SHOE   41* (08),,
+Line_Item_Total	13.00,,
+Line_Item_Total	@ 6*
+SubTotal	142,,
+Line_Item_Quantity	1
+Tax	0,,
+Total	.04,,133

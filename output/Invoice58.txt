@@ -1,0 +1,9 @@
+Invoice_Number	4513,
+Created_Date	DATE 01/01/2019,,
+Line_Item_Total	$10
+Line_Item_SKU	0,,
+Line_Item_Price	$300,,
+Line_Item_Description	Item 3,,
+Line_Item_Price	$50
+Vendor_Name	Name: Howard P Cruz,,
+Account_number	Account: 5295 8280 7728 1126,

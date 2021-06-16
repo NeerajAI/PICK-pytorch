@@ -1,0 +1,10 @@
+Vendor_Name	SDN BHD,,
+Total	704427-T ),
+Line_Item_Description	(CO,REG,
+Vendor_Address	Kawasan PERINDUSTRIAN BALAKONG,,
+Tax	6/60,,
+Total	1,,
+Line_Item_Description	Inc],,
+SubTotal	5 , 57,
+Tax	18-10-1
+Invoice_Number	T3 Ro0000o163,,

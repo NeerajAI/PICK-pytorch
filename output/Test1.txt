@@ -1,0 +1,7 @@
+Line_Item_Quantity	4572,
+Line_Item_Price	7/01,4
+Line_Item_Description	IxGloki,
+Line_Item_Description	IxSchweinschnitze]
+Line_Item_Total	18.50,
+Line_Item_Quantity	54,
+Total	3.85,

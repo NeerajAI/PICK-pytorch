@@ -149,9 +149,10 @@ class Document:
 
                 elif self.iob_tagging_type == 'box_and_within_box_level':
                     # perform exactly tagging within specific box, box_level_entities parames will perform boex level tagging.
+                    ent = ['Line_Item_Reference','Line_Item_SKU','Line_Item_Price','Line_Item_Total','Line_Item_Quantity','Line_Item_Description']
                     iob_tags_label = text2iob_label_with_box_and_within_box_exactly_level(box_entity_types[:boxes_num],
                                                                                           transcripts[:boxes_num],
-                                                                                          entities, ['address'])
+                                                                                          entities, ent)
 
                 iob_tags_label = IOBTagsField.process(iob_tags_label)[:, :transcript_len].numpy()
                 box_entity_types = [entities_vocab_cls.stoi[t] for t in box_entity_types[:boxes_num]]
