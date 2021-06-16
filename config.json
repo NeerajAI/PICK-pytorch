@@ -116,7 +116,7 @@
     },
 
     "trainer": {
-        "epochs": 100,
+        "epochs": 150,
         "gl_loss_lambda": 0.01,
         "log_step_interval": 10,
         "val_step_interval": 50,
